@@ -13,3 +13,5 @@ There will be warnings But they don't mean anything, Also 2 - 4 errors will appe
 Right click Client, Build Path > Add External Archives, Select vecmath from the lib folder
 
 that would fix 2 errors, and the other 2 errors are about the location to your 1.8.9 minecraft version
+
+# I WILL NOT HELP ANYBODY, YOU JUST NEED TO LEARN HOW TO USE YOUR IDE!!!
